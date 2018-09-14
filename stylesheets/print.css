@@ -1,0 +1,8 @@
+@media print /*--This is for Print--*/
+{
+    .btn
+    {
+        display: none;
+    }
+   
+}
